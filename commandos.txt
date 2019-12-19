@@ -1,0 +1,31 @@
+add: Änderungen zum Index hinzufügen
+
+commit: Änderungen betätigen
+
+git init: legt eine neues git-Repository an
+
+push: Sendet Änderungen an dein entferntes Repository
+
+pull: aktualisiert lokales Repository mit den neuesten Änderungen
+
+merge: Wenn man einen anderen Branch mit einem aktuellen zusammenführen will
+
+git log: Liste mit Commit-IDs
+
+checkout: setzt den letzten Stand der lokalen Änderungen HEAD zurück. Änderungen die bereits im Index sind, werden nicht zurückgesetzt
+
+git config: globale Konfigurationsdaten anzeigen
+
+clone: kopiert das angegebene Repository
+
+rm: löscht eine Datei
+
+remote: Wenn man das lokales Repository nicht von einem entfernten geklont hat und man diese aber mit einem anderen Repository verbinden möchte, muss man dieses mit remote hinzufügen. 
+
+git status: zeigt die Änderungen an
+
+diff: prüft auf Änderungen
+
+reset: zurücksetzen
+
+branch: Auflisten, Erstellen und Löschen von branches
